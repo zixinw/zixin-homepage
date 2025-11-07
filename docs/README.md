@@ -46,7 +46,7 @@ Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick
 
 
 ## Services
-**Conference reviewer**: CHI Late-breaking Work 2023, 2024, CSCW 2024, IMX 2024
+**Conference reviewer**: CHI Late-breaking Work 2023, 2024, CSCW 2024, IMX 2024, CHI 2026
 
 
 
