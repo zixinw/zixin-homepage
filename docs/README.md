@@ -29,6 +29,11 @@ I am interested in usable security and privacy, and HCI. I use quantitative (e.g
 ## Publications
 
 ### <font color=red>Usable Privacy and Security</font>
+- **[CHI ’26]**
+Yuting Yang, **Zixin Wang**, Rongjun Ma, and Florian Schaub. 2026.
+[Privacy and Trust versus Utility: Adoption of Institutional and Commercial AI Assistants Among University Users]().
+*In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26)*.
+
 - **[USEC ’24]**
 Tu Le, **Zixin Wang**, Danny Yuxing Huang, Yaxing Yao, and Yuan Tian. 2023.
 [Towards Real-time Voice Interaction Data Collection Monitoring and Ambient Light Privacy Notification for Voice-controlled Services](https://www.ndss-symposium.org/wp-content/uploads/usec2024-39-paper.pdf).
@@ -46,7 +51,7 @@ Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick
 
 
 ## Services
-**Conference reviewer**: CHI 2026, CHI Late-breaking Work 2023, 2024, CSCW 2024, IMX 2024
+**Conference reviewer**: CHI 2026, CHI Late-breaking Work 2023, 2024, 2025, CSCW 2024, IMX 2024
 
 
 
