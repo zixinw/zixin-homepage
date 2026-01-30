@@ -51,7 +51,16 @@ Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick
 [Augmented Reality’s Potential for Identifying and Mitigating Home Privacy Leaks](https://arxiv.org/pdf/2301.11998.pdf).
 *In Workshop on Usable Security and Privacy (USEC)*.
 
-### <font color=red>Usable Privacy and Security</font>
+### <font color=blue>Social Media</font>
+- **[iConference ’23]**
+Xiang Chen, Jiamu Xie, **Zixin Wang**, Bohui Shen, and Zhixuan Zhou. 2023.
+[How We Express Ourselves Freely: Censorship, Self-censorship, and Anti-censorship on a Chinese Social Media](https://arxiv.org/pdf/2211.13748.pdf).
+*In 18th iConference*.
+
+- **[HICSS ’23]**
+Zhixuan Zhou, **Zixin Wang**, and Franziska Zimmer. 2023.
+[Anonymous Expression in an Online Community for Women in China](https://arxiv.org/pdf/2206.07923.pdf).
+*In 56th Hawaii International Conference on System Sciences (HICSS)*.
 
 
 ## Services
