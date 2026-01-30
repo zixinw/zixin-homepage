@@ -22,15 +22,11 @@ email: zixinw AT umich DOT edu
 
 ## About Me
 
-I am a PhD Student in the [School of Information](https://www.si.umich.edu/) at the [University of Michigan, Ann Arbor](https://umich.edu/), advised by Dr. Florain Schaub and Dr. Christopher Brooks. My research focuses on privacy and agency for low-control users, particularly those affected by data collection but not fully in charge of it. This includes tenants in smart homes, bystanders around sensing devices, and blind or low vision individuals navigating social interaction without visual cues.
+I am a PhD Student in the [School of Information](https://www.si.umich.edu/) at the [University of Michigan, Ann Arbor](https://umich.edu/), advised by [Dr. Florian Schaub](https://www.si.umich.edu/people/florian-schaub) and [Dr. Christopher Brooks](https://www.si.umich.edu/people/christopher-brooks). My research focuses on privacy and agency for low-control users, particularly those affected by data collection but not fully in charge of it. This includes tenants in smart homes, bystanders around sensing devices, and blind or low vision individuals navigating social interaction without visual cues.
 
-Using quant-driven mixed methods (large-scale surveys, vignette experiments, statistical modeling, and thematic analysis), I study how uncertainty shapes real behavior, including avoidance, self-censorship, and boundary negotiation. I then translate findings into practical design supports: clearer signals, safer defaults, and interactions that reduce decision burden.
+Using quant-driven mixed methods (large-scale surveys, vignette experiments, statistical modeling, and thematic analysis), I study how people navigate these situations and design tools that support them, such as clearer disclosures, safer defaults, and lower-burden interactions.
 
-I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China, and Master's degree in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/).
-
-Previously, I was a research assistant at [Johns Hopkins University](https://engineering.jhu.edu/), advised by [Dr. Yaxing Yao](https://www.cs.jhu.edu/~yaxing/), [University of British Columba](http://www.psych.zju.edu.cn/) and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/). I am also fortunate to have worked alongside distinguished professors such as [Danny Yuxing Huang](https://engineering.nyu.edu/faculty/danny-yuxing-huang), [New York University](https://www.nyu.edu/), and [Haojian Jin](http://shift-3.com/), [UC San Diego](https://ucsd.edu/).
-
-I am interested in usable security and privacy, and HCI. I use quantitative (e.g., survey) and qualitative (e.g., interview, content analysis) methods in my research.
+I obtained my Bachelor's degree in Psychology at [Southwest University](http://www.swu.edu.cn/), China, and Master's degree in the [Department of Pyschology and Behavioral Sciences](http://www.psych.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/). Previously, I was a research assistant at [Johns Hopkins University](https://engineering.jhu.edu/), advised by [Dr. Yaxing Yao](https://www.cs.jhu.edu/~yaxing/), and [Southwest University](http://www.swu.edu.cn/), advised by [Dr. Qinghua He](http://he-lab.cn/). I am also fortunate to have worked alongside distinguished professors such as [Danny Yuxing Huang](https://engineering.nyu.edu/faculty/danny-yuxing-huang), [New York University](https://www.nyu.edu/), [Haojian Jin](http://shift-3.com/), [UC San Diego](https://ucsd.edu/).
 
 ## Publications
 
