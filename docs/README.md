@@ -51,6 +51,8 @@ Stefany Cruz, Logan Danek, Shinan Liu, Christopher Kraemer, **Zixin Wang**, Nick
 [Augmented Reality’s Potential for Identifying and Mitigating Home Privacy Leaks](https://arxiv.org/pdf/2301.11998.pdf).
 *In Workshop on Usable Security and Privacy (USEC)*.
 
+### <font color=red>Usable Privacy and Security</font>
+
 
 ## Services
 **Conference reviewer**: CHI 2026, CHI Late-breaking Work 2023, 2024, 2025, CSCW 2024, IMX 2024
